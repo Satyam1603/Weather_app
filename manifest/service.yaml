@@ -9,5 +9,5 @@ spec:
   ports:
     - port: 80        # service port
       targetPort: 80 # container port
-      nodePort: 30080  # fixed NodePort (optional)
+      nodePort: 30123  # fixed NodePort (optional)
 
