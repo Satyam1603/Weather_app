@@ -51,6 +51,6 @@ argocd app create <APP_NAME> \
   click on create 
   =======================================================================================================================
  
-
-
+<img width="1258" height="592" alt="image" src="https://github.com/user-attachments/assets/bf6fd8a0-eb1f-4dbb-bdae-07addcb982fa" />
+<img width="1199" height="567" alt="image" src="https://github.com/user-attachments/assets/b7aea6c9-57c7-472a-bdda-4ddcd9494697" />
 
