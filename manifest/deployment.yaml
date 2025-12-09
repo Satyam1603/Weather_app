@@ -1,21 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: weather_app
+  name: weather-app
   labels:
-    app: weather_app
+    app: weather-app
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: weather_app
+      app: weather-app
   template:
     metadata:
       labels:
-        app: weather_app
+        app: weather-app
     spec:
       containers:
-        - name: weather_app
+        - name: weather-app
           image: satyam1603/weather_app:latest  # <-- Replace with your Docker image
           ports:
             - containerPort: 80
